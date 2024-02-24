@@ -1,4 +1,4 @@
-## Olá, me chamo Lívia Medeiros Xavier!
+## 👾 Olá, me chamo Lívia Medeiros Xavier!
 
 - 📚 Atualmente estou cursando Ciência da Computação.
 - 💻 Tenho interesse em desenvolvimento back-end.
