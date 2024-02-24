@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá, me chamo Lívia Medeiros Xavier!
 
-<!--
-**livmedeiros/livmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Atualmente estou cursando Ciência da Computação.
+- 💻 Tenho interesse em desenvolvimento back-end.
+- 🧠 Meus pontos fortes em programação são HTML, CSS e principalmente Java.
+- ✏️ Estou aprendendo sobre C, Python e Javascript.
+- 📧 Para entrar em contato comigo, use o meu e-mail: livmedeiros03@hotmail.com
 
-Here are some ideas to get you started:
+## Ferramentas e tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+          
