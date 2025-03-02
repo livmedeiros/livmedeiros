@@ -2,8 +2,8 @@
 
 - 📚 Atualmente estou cursando Ciência da Computação.
 - 💻 Tenho interesse em desenvolvimento back-end.
-- 🧠 Meus pontos fortes em programação são HTML, CSS e principalmente Java.
-- ✏️ Estou aprendendo sobre C, Python, e Banco de Dados com MySQL.
+- 🧠 Meus pontos fortes em programação são Java e Python.
+- ✏️ Estou aprendendo sobre C, HTML, CSS, e Banco de Dados MySQL.
 - 📧 Para entrar em contato comigo, use o meu e-mail: livmedeiros03@hotmail.com
 
 ## Ferramentas e tecnologias 🖥️
